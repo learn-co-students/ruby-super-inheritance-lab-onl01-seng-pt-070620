@@ -11,4 +11,8 @@ class ChattyStudent < Student
       i +=1
     end
   end
+  
+    # 10.times do
+    #   super
+    # end
 end
